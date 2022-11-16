@@ -21,7 +21,7 @@ signUpForm.addEventListener('submit', async (e) => {
 
     const user = await signUpUser(signUpEmail.value, signUpPassword.value);
 
-    console.log(user);
+    // Redirect to /other-page when page loads if user is authenticated
     if (user) {
         redirectIfLoggedIn();
     } else {
@@ -41,5 +41,4 @@ signInForm.addEventListener('submit', async (e) => {
     } else {
         console.error(user);
     }
-    // Redirect to /other-page when page loads if user is authenticated
 });
