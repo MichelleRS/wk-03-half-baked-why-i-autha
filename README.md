@@ -1,12 +1,4 @@
-# Why I Autha
-
-## Demo
-
-[Link to Demo](https://alchemy-web-why-i-autha.netlify.app/)
-
-## Getting Started
-
-Use the [this template](https://github.com/alchemycodelab/half-baked-web-01-why-i-autha) to get started.
+# Week 03 Half Baked - Why I Autha
 
 ### Learning Objectives
 
@@ -37,13 +29,11 @@ The following is required for your assignment to be graded:
 -   PR preview on netlify
 -   At least 4 commits, aligning with individual features
 
-| Task                                                                           | **10** |
-| ------------------------------------------------------------------------------ | ------ |
-| ** Code Requirements **                                                        |        |
-| Clear commit history with multiple commits with working code                   | 2      |
-| Users can sign in and are redirected to other-page                             | 2      |
-| Users can register and are redirected to other-page                            | 2      |
-| Users can logout from the other page                                           | 2      |
-| Authenticated users are redirected to the other page from the home page        | 1      |
-| Unauthenticated users are redirected back to the home page from the other page | 1      |
+## Rubric
 
+-   [] Clear commit history with multiple commits with working code 2
+-   [] Users can sign in and are redirected to other-page 2
+-   [] Users can register and are redirected to other-page 2
+-   [] Users can logout from the other page 2
+-   [] Authenticated users are redirected to the other page from the home page 1
+-   [] Unauthenticated users are redirected back to the home page from the other page 1
